@@ -1,29 +1,31 @@
-
-{                                                                                
-  "name": "be.elab.ovnitoy",                              
-  "displayName": "Kid Ovni Toy",                        
-  "version": "2025.4.15",                         
-  "unity": "2018.1",                             
-  "unityRelease": "",                             
-  "description": "Toy game experiment of how you can make an OVNI drone moving compare to the player position or player controller.",                         
-  "keywords": ["Script","Tool"],                       
-  "dependencies":{},     
-  "relatedPackages":{},     
+{
+  "name": "be.elab.ovnitoy",
+  "displayName": "\ud83e\uddf0,Toy: Kid Ovni Toy",
+  "version": "2025.4.15",
+  "unity": "2018.1",
+  "description": "Toy game experiment of how you can make an OVNI drone moving compare to the player position or player controller.",
+  "keywords": [
+    "Script",
+    "Tool"
+  ],
+  "relatedPackages": {},
   "samples": [
     {
       "displayName": "Demo Scene",
       "description": "Demo on how to use the package",
       "path": "Scene/Demo"
     }
-  ] ,     
-  "author" : {
-"name":"Eloi Stree",
-"mail":"",
-"url":""},     
-  "repository":{
-"type":"Git",
-"url":"https://github.com/EloiStree/2025_04_15_KidToyOvniCode.git",
-"footprint":"",
-"revision":""},     
-  "category": "Script"                   
-} 
+  ],
+  "author": {
+    "name": "Eloi Stree",
+    "mail": "",
+    "url": ""
+  },
+  "repository": {
+    "type": "Git",
+    "url": "https://github.com/EloiStree/2025_04_15_KidToyOvniCode.git",
+    "footprint": "",
+    "revision": ""
+  },
+  "category": "Script"
+}
